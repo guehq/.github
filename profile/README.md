@@ -2,11 +2,13 @@
 
 ## GUE Community
 [Preview website](https://guehq.github.io/gue-community/)
+![reader](https://github.com/guehq/.github/blob/main/gue-community.png?raw=true)
 
 
 
 ### GUE Projects
 [Preview website](https://guehq.github.io/gue-projects/)
+![reader](https://github.com/guehq/.github/blob/main/gue-projects.png?raw=true)
 
 
 
